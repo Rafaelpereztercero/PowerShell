@@ -95,7 +95,16 @@
 ### EJERCICIO 4
 ////////////////////////////////////////////////////////////////////
 
-
+#### 4.1 - Crea en la carpeta raíz de la unidad A: una carpeta denominada TECINFO
+![image](https://user-images.githubusercontent.com/91564342/159931484-17e1d730-cedc-4a63-82f6-8c026c57b607.png)
+#### 4.2 - Crea dentro de TECINFO el siguiente archivo de texto y llámalo HARD.TXT
+![image](https://user-images.githubusercontent.com/91564342/159931865-10fb90ff-979b-414d-b4b0-74f6d84fe42a.png)
+![image](https://user-images.githubusercontent.com/91564342/159931885-f5328461-7a33-49bc-9ed5-42ec647d3a46.png)
+#### 4.3 - Crea dentro de TECINFO el siguiente archivo de texto y llámalo SOFT.TXT
+![image](https://user-images.githubusercontent.com/91564342/159932149-b58e5457-f4a4-48ea-89d5-75d3ea69ec8f.png)
+![image](https://user-images.githubusercontent.com/91564342/159932176-52e99d62-c02d-4a53-a665-3b7f6b979852.png)
+#### 4.4 - Mueve el contenido de TECINFO a la carpeta APLI del disquete A utilizado para realizar los ejercicios anteriores
+![image](https://user-images.githubusercontent.com/91564342/159932901-c3196061-a38a-426e-ae2a-654178d5bda3.png)
 
 
 
