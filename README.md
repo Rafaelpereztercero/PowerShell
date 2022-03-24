@@ -70,6 +70,7 @@
 #### 3.2 - Crea la siguiente estructura de subcarpetas dentro de la carpeta ASTRO
 ![image](https://user-images.githubusercontent.com/91564342/159920734-dcc5786a-e432-4360-9100-93d402b25ac1.png)
 ![image](https://user-images.githubusercontent.com/91564342/159920823-13cb17c9-c9da-46ed-9efb-47afdcb863e4.png)
+
 ![image](https://user-images.githubusercontent.com/91564342/159921093-55aacd00-821f-48ee-9d94-8edbc7681aa1.png)
 #### 3.3 - Sitúate en la carpeta CIENCIA y desde allí muestra el listado de archivos y subcarpetas de la carpeta HISTORIA
 ![image](https://user-images.githubusercontent.com/91564342/159921588-0587f88f-6488-4d94-b3cc-6d638bb59a01.png)
