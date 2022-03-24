@@ -34,7 +34,7 @@
 ////////////////////////////////////////////////////////////////////
 
 
-#### 2.1 - Utilizando el editor de textos de MS-DOS, crea un archivo de texto denominado EJER.TXT, con el siguiente contenido, y almacénalo dentro de la carpeta TEXTOS ####(dentro de la estructuradel ejercicio anterior):
+#### 2.1 - Utilizando el editor de textos de MS-DOS, crea un archivo de texto denominado EJER.TXT, con el siguiente contenido, y almacénalo dentro de la carpeta TEXTOS (dentro de la estructuradel ejercicio anterior):
 ![image](https://user-images.githubusercontent.com/91564342/159919298-827afd65-9016-48ac-97c4-b02053291104.png)
 #### 2.2 - Copia el archivo EJER.TXT en AGENDA
 ![image](https://user-images.githubusercontent.com/91564342/159919411-369ce464-7379-4f6a-9d24-660c7068a5dc.png)
@@ -65,6 +65,7 @@
 
 #### 3.1 - Borra la carpeta ACCESS y en su lugar crea una nueva carpeta llamada ASTRO
 ![image](https://user-images.githubusercontent.com/91564342/159920602-7c867c3b-061d-4d51-9897-0c6f7b99424d.png)
+
 ![image](https://user-images.githubusercontent.com/91564342/159920623-55664854-e3f9-4089-8930-02cdfe9bf6f0.png)
 #### 3.2 - Crea la siguiente estructura de subcarpetas dentro de la carpeta ASTRO
 ![image](https://user-images.githubusercontent.com/91564342/159920734-dcc5786a-e432-4360-9100-93d402b25ac1.png)
@@ -82,7 +83,7 @@
 ![image](https://user-images.githubusercontent.com/91564342/159922041-bd02c869-7f45-435a-afbd-bef1b464f5f2.png)
 #### 3.7 - Cambia de lugar los archivos almacenados en DATOS1 y DATOS2 de forma que TYCHO.TXT quede guardado dentro DATOS2 y KEPLER.TXT en DATOS1
 ![image](https://user-images.githubusercontent.com/91564342/159922135-9b26a35b-33b8-467d-a77e-7583489e3cd6.png)
-#### 3.8 - Crea un nuevo archivo formado por la unión de los dos anteriores (sin volver a escribir el texto) y guárdalo dentro de la carpeta HISTORIA con el nombre #### TOTAL.TXT
+#### 3.8 - Crea un nuevo archivo formado por la unión de los dos anteriores (sin volver a escribir el texto) y guárdalo dentro de la carpeta HISTORIA con el nombre TOTAL.TXT
 ![image](https://user-images.githubusercontent.com/91564342/159922292-445df950-f49e-4427-afeb-98bb0264c692.png)
 ![image](https://user-images.githubusercontent.com/91564342/159922310-3b7710c8-df05-4f97-8b20-5efff066d446.png)
 #### 3.9 - Abre el archivo KEPLER.TXT almacenado en la carpeta CIENCIA y añade el siguiente texto:
@@ -106,14 +107,14 @@
 #### 4.4 - Mueve el contenido de TECINFO a la carpeta APLI del disquete A utilizado para realizar los ejercicios anteriores
 ![image](https://user-images.githubusercontent.com/91564342/159932901-c3196061-a38a-426e-ae2a-654178d5bda3.png)
 #### 4.5 - Crea un nuevo archivo formado por la unión de HARD.TXT y SOFT.TXT, sin volver a escribir el texto, y guárdalo en la carpeta AGENDA con el nombre ORDER.TXT
-
+![image](https://user-images.githubusercontent.com/91564342/159957417-e6c57f4c-3794-4e9f-82a3-9614c34db191.png)
 #### 4.6 - Elimina la carpeta TECINFO
-
+![image](https://user-images.githubusercontent.com/91564342/159957455-f0893447-f74e-4019-ac3a-605afc6e6d5d.png)
 #### 4.7 - Copia a la vez los archivos HARD.TXT y SOFT.TXT en la carpeta VARIOS
-
+![image](https://user-images.githubusercontent.com/91564342/159957495-27eaf88e-51f9-407f-9c1e-f7bf2752a9e6.png)
 #### 4.8 - Cambia la extensión de los archivos contenidos en AGENDA por .TYP
-
-#### 4.9 - Cambia la primera letra del nombre de todos los archivos del directorio APLI que empiecen por la letra C y tengan extensión DOC de forma que empiecen con la #### letra S
+![image](https://user-images.githubusercontent.com/91564342/159960152-5574de4f-1c41-484b-b613-cd87dcd06bd5.png)
+#### 4.9 - Cambia la primera letra del nombre de todos los archivos del directorio APLI que empiecen por la letra C y tengan extensión DOC de forma que empiecen con la  letra S
 ##### ACTIVIDAD MAL PLANTEADA
 #### 4.10 - Copia los archivos contenidos en la carpeta APLI que tengan extensión DOC en la carpeta AGENDA
 ##### ACTIVIDAD MAL PLANTEADA
