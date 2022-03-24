@@ -105,7 +105,17 @@
 ![image](https://user-images.githubusercontent.com/91564342/159932176-52e99d62-c02d-4a53-a665-3b7f6b979852.png)
 #### 4.4 - Mueve el contenido de TECINFO a la carpeta APLI del disquete A utilizado para realizar los ejercicios anteriores
 ![image](https://user-images.githubusercontent.com/91564342/159932901-c3196061-a38a-426e-ae2a-654178d5bda3.png)
+#### 4.5 - Crea un nuevo archivo formado por la unión de HARD.TXT y SOFT.TXT, sin volver a escribir el texto, y guárdalo en la carpeta AGENDA con el nombre ORDER.TXT
 
+#### 4.6 - Elimina la carpeta TECINFO
 
+#### 4.7 - Copia a la vez los archivos HARD.TXT y SOFT.TXT en la carpeta VARIOS
+
+#### 4.8 - Cambia la extensión de los archivos contenidos en AGENDA por .TYP
+
+#### 4.9 - Cambia la primera letra del nombre de todos los archivos del directorio APLI que empiecen por la letra C y tengan extensión DOC de forma que empiecen con la #### letra S
+##### ACTIVIDAD MAL PLANTEADA
+#### 4.10 - Copia los archivos contenidos en la carpeta APLI que tengan extensión DOC en la carpeta AGENDA
+##### ACTIVIDAD MAL PLANTEADA
 
 
